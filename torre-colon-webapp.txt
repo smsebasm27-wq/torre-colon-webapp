@@ -1,0 +1,5 @@
+torre-colon-webapp/
+├── index.html         → Página principal
+├── style.css          → Estilos visuales
+├── script.js          → Comportamiento interactivo
+└── contacto.html      → Formulario de contacto
